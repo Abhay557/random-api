@@ -28,38 +28,38 @@ Similar to fake data APIs, mock data APIs generate realistic yet fictional data 
 ## API Endpoints
 
 ### Fun Endpoints
-- [Joke API](https://doc-random-api.onrender.com/api/fun/joke)
-- [Meme API](https://doc-random-api.onrender.com/api/fun/meme)
-- [Fact API](https://doc-random-api.onrender.com/api/fun/fact)
-- [Quote API](https://doc-random-api.onrender.com/api/fun/quote)
-- [Fortune API](https://doc-random-api.onrender.com/api/fun/fortune)
-- [Pickup Line API](https://doc-random-api.onrender.com/api/fun/pickup)
+- [Joke API](https://random-api.onrender.com/api/fun/joke)
+- [Meme API](https://random-api.onrender.com/api/fun/meme)
+- [Fact API](https://random-api.onrender.com/api/fun/fact)
+- [Quote API](https://random-api.onrender.com/api/fun/quote)
+- [Fortune API](https://random-api.onrender.com/api/fun/fortune)
+- [Pickup Line API](https://random-api.onrender.com/api/fun/pickup)
 
 ### Fake & Mock Data Endpoints
-- [User Data API](https://doc-random-api.onrender.com/api/data/user)
-- [Credit Card API](https://doc-random-api.onrender.com/api/data/creditcard)
-- [Address API](https://doc-random-api.onrender.com/api/data/address)
+- [User Data API](https://random-api.onrender.com/api/data/user)
+- [Credit Card API](https://random-api.onrender.com/api/data/creditcard)
+- [Address API](https://random-api.onrender.com/api/data/address)
 
 ### Anime Endpoints
-- [Search Anime](https://doc-random-api.onrender.com/api/anime/search?name={anime_name})
+- [Search Anime](https://random-api.onrender.com/api/anime/search?name={anime_name})
   - Example: `naruto`
-- [Anime Details](https://doc-random-api.onrender.com/api/anime/detail?name={anime_id})
+- [Anime Details](https://random-api.onrender.com/api/anime/detail?name={anime_id})
   - Example: `kinmoza-2418` from `https://aniwatch.to/kinmoza-2418/`
-- [Trending Anime](https://doc-random-api.onrender.com/api/anime/trending)
-- [Random Anime](https://doc-random-api.onrender.com/api/anime/random)
-- [Anime Status](https://doc-random-api.onrender.com/api/anime/status)
-- [Anime by Genre](https://doc-random-api.onrender.com/api/anime/genre/{genre_name})
-- [Anime Schedule](https://doc-random-api.onrender.com/api/anime/schedule)
-- [Related Anime](https://doc-random-api.onrender.com/api/anime/related)
-- [Mixed Anime Search](https://doc-random-api.onrender.com/api/anime/mix/{query_parameter})
-- [Anime Server Info](https://doc-random-api.onrender.com/api/anime/server)
-- [Anime Home](https://doc-random-api.onrender.com/api/anime/home)
+- [Trending Anime](https://random-api.onrender.com/api/anime/trending)
+- [Random Anime](https://random-api.onrender.com/api/anime/random)
+- [Anime Status](https://random-api.onrender.com/api/anime/status)
+- [Anime by Genre](https://random-api.onrender.com/api/anime/genre/{genre_name})
+- [Anime Schedule](https://random-api.onrender.com/api/anime/schedule)
+- [Related Anime](https://random-api.onrender.com/api/anime/related)
+- [Mixed Anime Search](https://random-api.onrender.com/api/anime/mix/{query_parameter})
+- [Anime Server Info](https://random-api.onrender.com/api/anime/server)
+- [Anime Home](https://random-api.onrender.com/api/anime/home)
 
 ### Animal Endpoints
-- [Random Cat Image](https://doc-random-api.onrender.com/api/animals/cat)
-- [Random Cat Fact](https://doc-random-api.onrender.com/api/animals/fact/cat)
-- [Random Dog Image](https://doc-random-api.onrender.com/api/animals/dog)
-- [Random Dog Fact](https://doc-random-api.onrender.com/api/animals/fact/dog)
+- [Random Cat Image](https://random-api.onrender.com/api/animals/cat)
+- [Random Cat Fact](https://random-api.onrender.com/api/animals/fact/cat)
+- [Random Dog Image](https://random-api.onrender.com/api/animals/dog)
+- [Random Dog Fact](https://random-api.onrender.com/api/animals/fact/dog)
 
 ## Documentation
 For detailed documentation, visit [Random-API Docs](https://doc-random-api.onrender.com/).
